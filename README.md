@@ -7,3 +7,6 @@ Doom 64 which runs on excel
 > need to install cydoomgeneric from the given link https://github.com/wojciech-graj/cydoomgeneric
 
 > uses python for the main code and c for the cfg
+
+
+![Uploading image.png…]()
